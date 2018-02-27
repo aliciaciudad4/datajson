@@ -1,0 +1,105 @@
+[
+{
+   "pregunta": [
+     {
+       "numero": "1",
+       "enunciado": "¿Cuánto pesa la piel de un adulto?:",
+       "respuestas": [{"opcion": "1", "textorespuesta" : "0,50- 1 kg", "correcta" : "no"},
+         {"opcion": "2", "textorespuesta" : "1- 3 kg", "correcta" : "no"},
+         {"opcion": "3", "textorespuesta" : "2- 4 kg", "correcta" : "si"},
+         {"opcion": "4", "textorespuesta" : "3- 5 kg", "correcta" : "no"},
+         {"opcion": "5", "textorespuesta" : "+6 kg", "correcta" : "no"}]
+     },
+     {
+        "pregunta": [
+          {
+            "numero": "2",
+            "enunciado": "Nuestra piel protege el resto del cuerpo del peligroso mundo exterior.
+            ¿Cuántos milímetros de espesor tiene nuestra piel?:",
+            "respuestas": [{"opcion": "1", "textorespuesta" : "3", "correcta" : "no"},
+              {"opcion": "2", "textorespuesta" : "5", "correcta" : "si"},
+              {"opcion": "3", "textorespuesta" : "7", "correcta" : "no"},
+              {"opcion": "4", "textorespuesta" : "9", "correcta" : "no"}]
+          },
+     {
+        "pregunta": [
+          {
+           "numero": "3",
+           "enunciado": "¿Cuántas células cutáneas se desprenden debido al roce cada minuto?:",
+           "respuestas": [{"opcion": "1", "textorespuesta" : "1-10", "correcta" : "no"},
+             {"opcion": "2", "textorespuesta" : "500-600", "correcta" : "no"},
+             {"opcion": "3", "textorespuesta" : "1.000-10.000", "correcta" : "no"},
+             {"opcion": "4", "textorespuesta" : "30-40.000", "correcta" : "si"}]
+         },
+    {
+       "pregunta": [
+         {
+          "numero": "4",
+          "enunciado": "¿Cada cuantos días se renueva la piel?:",
+          "respuestas": [{"opcion": "1", "textorespuesta" : "7", "correcta" : "no"},
+            {"opcion": "2", "textorespuesta" : "15", "correcta" : "no"},
+            {"opcion": "3", "textorespuesta" : "26", "correcta" : "si"},
+            {"opcion": "4", "textorespuesta" : "32", "correcta" : "no"}]
+        },
+{
+   "pregunta": [
+     {
+       "numero": "5",
+       "tipus": "text",
+       "titol": "¿Gracias a cuantas articulaciones distintas nos movemos?:",
+       "resposta": "250"
+     },
+   {
+      "pregunta": [
+        {
+         "numero": "6",
+         "enunciado": "  PRUEBA PRÁCTICA:Mantén los ojos cerrados mientras otra persona hace chasquear sus dedos, bien delante de tí, detrás o encima,
+           con su mano situada a una distancia equidistante de ambas orejas. ¿Eres capad de indicar de dónde
+           procede el sonido?
+           Para el ser humano esta situación le resulta difícil ya que las ondas sonoras llegan a ambos oídos al mismo tiempo.",
+         "respuestas": [{"opcion": "1", "textorespuesta" : "Delante", "correcta" : "no"},
+           {"opcion": "2", "textorespuesta" : "Detrás", "correcta" : "no"},
+           {"opcion": "3", "textorespuesta" : "Encima", "correcta" : "si"}]
+       },
+   {
+      "pregunta": [
+        {
+         "numero": "7",
+         "enunciado": "El circuito sanguíneo mide:",
+         "respuestas": [{"opcion": "1", "textorespuesta" : "60.000 m", "correcta" : "no"},
+           {"opcion": "2", "textorespuesta" : "640 km", "correcta" : "no"},
+           {"opcion": "3", "textorespuesta" : "96.400 km", "correcta" : "si"},
+           {"opcion": "4", "textorespuesta" : "250.000 km", "correcta" : "no"}]
+       },
+   {
+      "pregunta": [
+        {
+         "numero": "8",
+         "enunciado": "El sentido del gusto: ¿Cuántos sabores básicos apreciamos?:",
+         "respuestas": [{"opcion": "1", "textorespuesta" : "2", "correcta" : "no"},
+           {"opcion": "2", "textorespuesta" : "3", "correcta" : "no"},
+           {"opcion": "3", "textorespuesta" : "4", "correcta" : "si"},
+           {"opcion": "4", "textorespuesta" : "5", "correcta" : "no"}]
+       },
+   {
+      "pregunta": [
+        {
+          "numero": "9",
+          "tipus": "text",
+          "titol": "PRÁCTICA: ¿Eres capaz de enrollar la lengua como en la imagen?:",
+          "resposta": "Si/No"
+        },
+  {
+     "pregunta": [
+       {
+        "numero": "10",
+        "enunciado": "Has sido capaz de enrollar la lengua?
+          Si no has sido capaz, no te mates, porque por mucho que lo intentes no lo vas a conseguir.
+          Esta habilidad depende de:",
+        "respuestas": [{"opcion": "1", "textorespuesta" : "Flexibilidad muscular", "correcta" : "no"},
+          {"opcion": "2", "textorespuesta" : "Carácter dominante que posee el 70% de la población", "correcta" : "si"},
+          {"opcion": "3", "textorespuesta" : "Genética", "correcta" : "si"}]
+      },
+   ]
+}
+]
